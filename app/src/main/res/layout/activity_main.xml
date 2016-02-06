@@ -36,7 +36,7 @@
             android:layout_height="wrap_content"
             android:onClick="onClick_MrRobot"
             android:text="Mr. Robot"
-            android:checked="false" />
+            android:checked="true" />
 
         <RadioButton
             android:layout_width="wrap_content"
